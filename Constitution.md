@@ -3,8 +3,34 @@ Grml Constitution
 
 This document reflects how the Grml team works.
 
+Glossary
+========
+
+* Majority Vote: more than 50% of the voters chose a particular option
+
+Teams
+=====
+
+* Kernel
+* Debian-Derivatives-Communications (DDC)
+* FTP-Master (FTPM)
+ * must be Grml Developer
+* Release Manager (RM) [incl. Daily RM]
+ * must be Grml Developer + Package Team member
+* GSA (Grml System Admin)
+* Web
+* Texttool Team
+* Package Team
+ * Aspiring Developers in this team must have Debian upload rights (DM/DD)
+* Marketing
+* Financing
+* Testing
+
 Roles
 =====
+
+* Anybody can step down at any time from a given role.
+* Anybody who's been proposed for a role can dismiss the proposal.
 
 Grml Developer
 --------------
@@ -35,20 +61,4 @@ Grml Contributor
  * RM team unanimously can accept this
 * After 12 months without significant contribution the commit access is removed and the contributor is removed from the web page
 
-Teams
-=====
 
-* Kernel
-* Debian-Derivatives-Communications (DDC)
-* FTP-Master (FTPM)
- * must be Grml Developer
-* Release Manager (RM) [incl. Daily RM]
- * must be Grml Developer + Package Team member
-* GSA (Grml System Admin)
-* Web
-* Texttool Team
-* Package Team
- * Aspiring Developers in this team must have Debian upload rights (DM/DD)
-* Marketing
-* Financing
-* Testing
