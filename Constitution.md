@@ -31,6 +31,8 @@ Roles
 
 * Anybody can step down at any time from a given role.
 * Anybody who's been proposed for a role can dismiss the proposal.
+* Any role change MUST be announced at least 48 hours before on the grml
+developer mailinglist. An introduction to vote about the change is sufficient.
 
 Grml Developer
 --------------
